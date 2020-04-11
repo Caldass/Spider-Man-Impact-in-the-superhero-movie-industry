@@ -8,7 +8,7 @@ The purpose of this project is to show, through data, the impact of Sam Raimi's 
 
 <b>Data Preparation</b>
 
-<b>Data Visualization/b>
+<b>Data Visualization</b>
   
 <b>Data Analysis</b>
 
