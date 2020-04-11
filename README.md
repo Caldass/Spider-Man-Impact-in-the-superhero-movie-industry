@@ -14,4 +14,4 @@ The purpose of this project is to show, through data, the impact of Sam Raimi's 
 
 <b>Libraries:</b> Pandas, Matplotlib, ast
   
-<b>Presentation</b> : Jupyter Notebook
+<b>Presentation</b>: Jupyter Notebook
